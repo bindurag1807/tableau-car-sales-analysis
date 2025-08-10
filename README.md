@@ -8,11 +8,8 @@ This project features an interactive Tableau dashboard designed to analyze car s
 ---
 
 
-## 📥 Download the Dashboard
-
-You can download the Tableau dashboard file (`.twb`) directly from this repository:
-
-➡️ [Download car_sales_dashboard.twb](https://github.com/bindurag1807/tableau-car-sales-analysis/raw/main/car_sales_dashboard.twb)
+🔗 View Dashboard on Tableau Public:  
+[Click here to open](https://public.tableau.com/views/car_sales_dashboard/Dashboard1)
 
 
 
